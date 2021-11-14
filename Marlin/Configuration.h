@@ -69,7 +69,7 @@
 // @section info
 
 // Author info of this build printed to the host during boot and M115
-#define STRING_CONFIG_H_AUTHOR "(Tux889, SKR Mini E3 v1.2)" // Who made the changes.
+#define STRING_CONFIG_H_AUTHOR "(Tux889, SKRmV1.2 2021-11-14)" // Who made the changes.
 //#define CUSTOM_VERSION_FILE Version.h // Path from the root directory (no quotes)
 
 /**
@@ -147,7 +147,7 @@
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
-//#define MACHINE_UUID "00000000-0000-0000-0000-000000000000"
+#define MACHINE_UUID "95fc6a18-218b-4687-b3ab-311028c45fb6"
 
 /**
  * Define the number of coordinated linear axes.
